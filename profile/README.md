@@ -1,16 +1,14 @@
 <p align="center"> <img style="max-width: 100%; margin: 2rem auto; display: block;" src="https://github.com/moonwalkerz/.github/raw/main/profile/cover.jpg"></p>
 
-### Who We Are
+# Who We Are
 
-MoonWalkerz is passion, dedication and discovery!
-
-MoonWalkerz expand web creating simple, easy-to-use interfaces and functional backends using open source technologies.
-
+MoonWalkerz is passion, dedication and discovery!\
+MoonWalkerz expand web creating simple, easy-to-use interfaces and functional backends using open source technologies.\
 In a nutshell, Moonwolkerz is a full stack developer group that has been fortunate enough to turn our passions into a job!
 
-### Coding
+## Code
 
-For Codin, now we are using:
+For web development we are using there languages:
 
 * Laravel
 * Livewire
@@ -19,9 +17,8 @@ For Codin, now we are using:
 * Tailwind CSS
 * Bootstrap
 
-### Contact Us
+## Contact Us
 
-Mail: webmaster@moonwalkerz.dev
-
+Mail: webmaster@moonwalkerz.dev\
 Telegram: @MoonWalkerzDev
 
