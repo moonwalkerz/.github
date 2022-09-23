@@ -6,7 +6,7 @@ MoonWalkerz is passion, dedication and discovery!\
 MoonWalkerz expand web creating simple, easy-to-use interfaces and functional backends using open source technologies.\
 In a nutshell, Moonwolkerz is a full stack developer group that has been fortunate enough to turn our passions into a job!
 
-## Code
+## Languages Used:
 
 For web development we are using there languages:
 
@@ -17,7 +17,7 @@ For web development we are using there languages:
 * Tailwind CSS
 * Bootstrap
 
-## Contact Us
+## Contact Us:
 
 Mail: webmaster@moonwalkerz.dev\
 Telegram: @MoonWalkerzDev
